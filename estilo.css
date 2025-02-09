@@ -53,29 +53,115 @@ background: url(image.png);
 filter: blur(12.7px);
 z-index: -1;
 }
-.cabecalho{
-    background-color: transparent;
-  }
   
-.inf-cabe{
-    margin: 10px;
-    text-decoration: none;
-    width: 530px;
-    color: white;
-    font-family: "Poppins";
-  }
 .chapeu{
-    margin: 10px;
-    width: 70px;
-    margin-right: 15px;
-    margin-left: 50px;
-    margin-top: 30px;
-
+  width: 70px;
+  margin-left: 73px;
+  margin-top: 31px;
 }
-.instagram{
-  z-index: 1;
-  margin-left: 1215px;
-  margin-top: -38px;
-  
 
+.home{
+  color: white;
+  position: absolute;
+  width: 45px;
+  height: 24px;
+  left: 194px;
+  top: 39px;
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 300;
+  font-size: 16px;
+  line-height: 150%;
+  display: flex;
+  align-items: center;
+}
+.historia{
+position: absolute;
+width: 69px;
+height: 24px;
+left: 290px;
+top: 39px;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 300;
+font-size: 16px;
+line-height: 150%;
+display: flex;
+align-items: center;
+color: white;
+}
+.wallpaper{
+position: absolute;
+width: 86px;
+height: 24px;
+left: 410px;
+top: 39px;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 300;
+font-size: 16px;
+line-height: 150%;
+display: flex;
+align-items: center;
+color: white;
+}
+.trailer{
+position: absolute;
+width: 56px;
+height: 24px;
+left: 547px;
+top: 39px;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 300;
+font-size: 16px;
+line-height: 150%;
+display: flex;
+align-items: center;
+color: white;
+}
+.icones{
+position: absolute;
+width: 136px;
+height: 25.26px;
+right: 87px;
+top: 38px;
+margin-left: 16px;
+margin-right: 16px;
+}
+.esquerda{
+position: absolute;
+width: 382px;
+height: 456px;
+left: 971px;
+top: 155px;
+background: url(mario-and-luigi.png);
+}
+.logo-filme{
+position: absolute;
+width: 250px;
+height: 211.54px;
+left: 74px;
+top: 144px;
+background: url(logo-movie.png);
+}
+.resumo-filme{
+  
+position: absolute;
+width: 474px;
+height: 144px;
+left: 73px;
+top: 383px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 150%;
+
+display: flex;
+align-items: center;
+text-align: justify;
+
+color: white;
 }
